@@ -1,0 +1,38 @@
+body{
+	font-size: 40px;
+	font-family: tahoma;
+}
+#A1,#A2,#A3,#A4,#A5{
+	background: #eeeff2;
+	width: 100px;
+	height: 150px;
+	float: left;
+	text-indent: 10px;
+	margin-right: 10px;
+	border-left-style: dashed;
+	border-left-width: 10px;
+	border-left-color: #D0D0FF;
+}
+#A1:hover,#A2:hover,#A3:hover,#A4:hover,#A5:hover{
+ 	background-color: yellow;
+ 	color: goldenrod;
+ 	cursor: pointer;
+}
+#A6{
+ 	width: 100px;
+ 	height: 150px;
+	position: fixed;
+  right: 0;
+ 	bottom: 0;
+  background: #eeeff2;
+  text-indent: 10px;
+  border-left-style: dashed;
+  border-left-width: 10px;
+  border-left-color: #D0D0FF;
+}
+ #A6:hover {
+ background-color: yellow;
+ color: goldenrod;
+ cursor: pointer;
+ }
+	<!-- Mochammad Andrian Maulana [14115031]-->
