@@ -1,0 +1,32 @@
+body{
+	font-family: : Arial, Helvetica, sans-serif;
+	font-size: 40pt;
+	text-align-last: center;
+}
+#A1,#A3,#A5{
+	border-top: 1PX SOLID BLACK;
+	width: 100px;
+	height: 100px;
+	background: #dfe1e7;
+	margin-right: auto;
+	margin-left: auto;
+}
+#A2,#A4{
+	border-top: 1PX SOLID BLACK;
+	width: 100px;
+	height: 100px;
+	background: #eeeff2;
+	margin-right: auto;
+	margin-left: auto;
+}
+#A6{
+	border-style: solid;
+	border-width: 4px;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	background: #687291;
+	margin-right: auto;
+	margin-left: auto;
+}
+<!-- Mochammad Andrian Maulana [14115031]-->
